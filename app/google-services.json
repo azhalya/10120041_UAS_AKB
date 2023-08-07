@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130718849686",
+    "project_id": "uas-azhalia",
+    "storage_bucket": "uas-azhalia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130718849686:android:e354fb678062e9becdc0b7",
+        "android_client_info": {
+          "package_name": "com.uas.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130718849686-7o2us8r8hmerie67v8hbr7re3pj4s5bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0qi-CO4LPemQFgqsRVYq0YZkBbgJhQ44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130718849686-7o2us8r8hmerie67v8hbr7re3pj4s5bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
